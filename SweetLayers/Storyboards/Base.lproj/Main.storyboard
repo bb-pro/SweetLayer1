@@ -879,7 +879,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CVb-v8-e19">
                                                 <rect key="frame" x="194" y="0.0" width="179" height="139.33333333333334"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back1" translatesAutoresizingMaskIntoConstraints="NO" id="JBv-iv-aVu">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back2" translatesAutoresizingMaskIntoConstraints="NO" id="JBv-iv-aVu">
                                                         <rect key="frame" x="0.0" y="0.0" width="179" height="108.66666666666667"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" secondItem="JBv-iv-aVu" secondAttribute="height" multiplier="163:99" id="b3r-Vd-aWp"/>
@@ -940,7 +940,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JqI-hj-6Li">
                                                 <rect key="frame" x="0.0" y="0.0" width="179" height="139.66666666666666"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back1" translatesAutoresizingMaskIntoConstraints="NO" id="4E3-R5-y2u">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back3" translatesAutoresizingMaskIntoConstraints="NO" id="4E3-R5-y2u">
                                                         <rect key="frame" x="0.0" y="0.0" width="179" height="108.66666666666667"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" secondItem="4E3-R5-y2u" secondAttribute="height" multiplier="163:99" id="LFs-m1-jNt"/>
@@ -996,7 +996,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xnz-iM-mcv">
                                                 <rect key="frame" x="194" y="0.0" width="179" height="139.66666666666666"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back1" translatesAutoresizingMaskIntoConstraints="NO" id="5CC-rw-VIY">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back4" translatesAutoresizingMaskIntoConstraints="NO" id="5CC-rw-VIY">
                                                         <rect key="frame" x="0.0" y="0.0" width="179" height="108.66666666666667"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" secondItem="5CC-rw-VIY" secondAttribute="height" multiplier="163:99" id="7Zs-DH-j5s"/>
@@ -1057,7 +1057,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QhQ-En-xRt">
                                                 <rect key="frame" x="0.0" y="0.0" width="179" height="139.33333333333334"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back1" translatesAutoresizingMaskIntoConstraints="NO" id="vcz-Y7-7pS">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back5" translatesAutoresizingMaskIntoConstraints="NO" id="vcz-Y7-7pS">
                                                         <rect key="frame" x="0.0" y="0.0" width="179" height="108.66666666666667"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" secondItem="vcz-Y7-7pS" secondAttribute="height" multiplier="163:99" id="y1Y-nb-RAe"/>
@@ -1113,7 +1113,7 @@
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="L5f-bm-wVS">
                                                 <rect key="frame" x="194" y="0.0" width="179" height="139.33333333333334"/>
                                                 <subviews>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back1" translatesAutoresizingMaskIntoConstraints="NO" id="WtV-eP-sC1">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back6" translatesAutoresizingMaskIntoConstraints="NO" id="WtV-eP-sC1">
                                                         <rect key="frame" x="0.0" y="0.0" width="179" height="108.66666666666667"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" secondItem="WtV-eP-sC1" secondAttribute="height" multiplier="163:99" id="jnd-Ys-jTG"/>
@@ -2883,6 +2883,11 @@ Recipe: Melt the dark chocolate. Mix cream cheese with sugar. Whip the cream an
     </scenes>
     <resources>
         <image name="back1" width="326" height="198"/>
+        <image name="back2" width="326" height="198"/>
+        <image name="back3" width="326" height="198"/>
+        <image name="back4" width="326" height="198"/>
+        <image name="back5" width="326" height="198"/>
+        <image name="back6" width="326" height="198"/>
         <image name="backgroundPriceImage" width="173" height="105"/>
         <image name="blowerGame" width="165" height="138"/>
         <image name="blowerInfo" width="584" height="353"/>
